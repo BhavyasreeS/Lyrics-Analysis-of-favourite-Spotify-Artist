@@ -18,4 +18,4 @@ Connect to Spotify
 
 In order to access all the data, you need a Spotify developer account. You can create one by simply signing in with your spotify account. Here’s the link to the page: https://developer.spotify.com/. You do not need a spotify premium for this. You have to register your app to get the credentials required for authorization.
 In your developer account go to your dashboard and choose “create an app”. Fill in your app name and app description and  click create. Now you get access to a public key and private key.
-
+![My Image](img1.png)
