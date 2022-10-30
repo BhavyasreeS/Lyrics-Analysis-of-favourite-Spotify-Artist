@@ -72,3 +72,17 @@ It is a commonly used data preprocessing step in NLP. It simply removes the most
 NLTK provides a list of stopwords in english. We use this to further clean our lyrics.
 
 As we are analysing song lyrics, there might be other meaningless words like yeah, gonna, wanna etc…. These were then removed separately.
+
+## Generating word cloud
+The total number of words and number of unique words in Justin Bieber lyrics were calculated. It was observed that our dataset contained a total of 17668 words, among them we have 3116 unique words.
+We then generate a word cloud. Word cloud is a data visualisation technique in which the size of the word indicates its frequency or importance. We use the wordcloud package to create the wordcloud.
+![WordCloud](img6.png)
+
+## Frequency Distribution
+We plot a frequency distribution graph for the commonly occurring 20 words.
+![Frequency Distribution](img7.png)
+
+The bar graph below represents the most commonly occurring 10 words.
+![Bar Chart](img8.png)
+
+You can also find similar analysis for Billie Elish in the repository.
