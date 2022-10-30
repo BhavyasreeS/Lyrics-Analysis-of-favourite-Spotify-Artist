@@ -47,12 +47,15 @@ Now, you know how to extract the lyrics from all the songs of your favourite art
 ### Correlation among track features
 We create a correlation heatmap among the track features using seaborn.
 ![Correaltion](img3.png)
+
 We observe that acousticness and energy are negatively correlated. We plot these 2 features separately to show their relationship.
 ![Acousticness v/s Energy](img4.png)
+
 Acoustic music lacks electrical amplification and is mostly gentle. Energy on the other hand represents intensity and activity. Energetic tracks are usually fast, loud and noisy. The negative correlation indicates that when energy is high, the acousticness is low and vice versa. This makes sense based on the definition.
 
 We also plot 2 other features, energy and loudness. There is a very high correlation between these two features. 
 ![Energy v/s Loudness](img5.png)
+
 Energetic songs tend to be louder and this relationship checks out as per the definition.
 
 ## Data Cleaning
