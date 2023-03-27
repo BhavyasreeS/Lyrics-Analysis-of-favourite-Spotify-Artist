@@ -81,10 +81,10 @@ We then generate a word cloud. Word cloud is a data visualisation technique in w
 ## Frequency Distribution
 We plot a frequency distribution graph for the commonly occurring 20 words.
 
-![Frequency Distribution](img7.png)
+![Frequency Distribution](img7.jpeg)
 
 The bar graph below represents the most commonly occurring 10 words.
 
-![Bar Chart](img8.png)
+![Bar Chart](img8.jpeg)
 
 You can also find similar analysis for Billie Elish in the repository.
